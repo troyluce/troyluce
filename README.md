@@ -2,6 +2,6 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working With Typescript,VUE,REACT and Threejs.
+- 🔭 I’m currently working With Typescript,Vue,React and Threejs.
 - 🌱 I’m currently learning to create a WeChat Mini Program
 
