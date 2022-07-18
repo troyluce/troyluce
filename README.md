@@ -1,15 +1,6 @@
 ## Hey 👋, This is Troy
 
 [![Mail Badge](https://img.shields.io/badge/troyluce@163.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:troyluce@163.com)](mailto:11812109@troyluce@163.com) [![Github Badge](https://img.shields.io/badge/-troyluce-grey?style=flat&logo=github&logoColor=white&link=https://github.com/troyluce/)](https://www.github.com/troyluce/)
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=ryyyc alt=ryyyc /> </p>
-
-<a href="https://github.com/ryyyc">
-  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ryyyc&show_icons=true&include_all_commits=true" />
-</a>
-<a href="https://github.com/ryyyc">
-  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryyyc&layout=compact" />
-</a>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=troyluce&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
