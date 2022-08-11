@@ -3,7 +3,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Microsoft+Yahei&size=40&color=38C2FFFF&vCenter=true&lines=Hi+there+%F0%9F%91%8B" 
        alt="Hi there 👋" />
 </p>
-[![Mail Badge](https://img.shields.io/badge/troyluce@163.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:troyluce@163.com)](mailto:troyluce@163.com) [![Github Badge](https://img.shields.io/badge/-troyluce-grey?style=flat&logo=github&logoColor=white&link=https://github.com/troyluce/)](https://www.github.com/troyluce/)
 <!--计数板和ralsei-->
 <p>
   <a href="https://github.com/troyluce">
