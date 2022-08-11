@@ -10,13 +10,9 @@
 <p>
   <a href="https://github.com/troyluce">
     <img src="https://github-readme-stats.vercel.app/api?username=troyluce&theme=gruvbox&show_icons=true" style="max-width: 100%;display: flex;float: left;margin-top: 50px"/>
-    <img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fpic.962.net%2Fup%2F2018-10%2F15398547062981901.gif&refer=http%3A%2F%2Fpic.962.net&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1662782902&t=d023e1236cbbf1e03babec61371842c6" />
     <img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fpic.962.net%2Fup%2F2018-10%2F15398547062981901.gif&refer=http%3A%2F%2Fpic.962.net&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1662782902&t=d023e1236cbbf1e03babec61371842c6" align="right"/>
   </a>
 </p>
-
-<br>
-<br>
 <br>
 <!--计数君-->
 <p align="center"> 
